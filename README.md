@@ -1,18 +1,10 @@
 # Nightfall Wizard
 
-**Independent developer/contributor account for adversarial verification of crypto and open-source claims.**
+**Independent developer/contributor account focused on adversarial verification, release reality checks, and Rust/privacy-protocol review work.**
 
 Nightfall Wizard focuses on one question:
 
 > What can actually be verified, reproduced, and bounded by evidence?
-
-## Independent status
-
-Nightfall Wizard is an independent developer/contributor account.
-
-Nightfall Wizard is **not** the owner, operator, legal representative, trademark owner, website operator, or official account of NightfallCoin or nightfallcoin.org.
-
-Nightfall-related repositories under this account are developer workbenches, experiments, review surfaces, or upstream-contribution surfaces. They are **not** canonical NightfallCoin project infrastructure unless the canonical project owner explicitly says so.
 
 ## Primary project
 
@@ -24,14 +16,14 @@ WVP is a mobile-built, zero-budget verification standard for checking whether cr
 
 Repository: https://github.com/nightfall-wizard/wizard-verification-protocol
 
+## Related work
+
+Nightfall-related repositories under this account are unofficial developer workbenches, experiments, review surfaces, or upstream-contribution surfaces.
+
 ## Claim boundary
 
 This profile does **not** claim:
 
-- ownership of NightfallCoin;
-- ownership or operation of nightfallcoin.org;
-- official representation of NightfallCoin;
-- trademark ownership over NightfallCoin;
 - audit status;
 - legal clearance;
 - investment quality;
@@ -39,6 +31,7 @@ This profile does **not** claim:
 - binary safety;
 - full reproducible builds;
 - source-to-release proof;
-- protocol security.
+- protocol security;
+- official status for external projects.
 
 It exists to make project claims easier to test, falsify, reproduce, and classify.
