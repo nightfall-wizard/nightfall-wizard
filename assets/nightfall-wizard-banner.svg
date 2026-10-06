@@ -1,0 +1,10 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" fill="#0b0f14"/>
+  <rect x="48" y="48" width="224" height="224" rx="44" fill="#111820" stroke="#30363d" stroke-width="3"/>
+  <path d="M94 112 L124 224 L160 136 L198 224 L234 136 L266 112" fill="none" stroke="#e6edf3" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 240 H244" stroke="#58a6ff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M222 86 L248 112 L294 58" fill="none" stroke="#3fb950" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="320" y="126" fill="#e6edf3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Nightfall Wizard</text>
+  <text x="320" y="180" fill="#8b949e" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25">Adversarial verification for crypto / open-source systems</text>
+  <text x="320" y="226" fill="#58a6ff" font-family="Consolas, Menlo, monospace" font-size="22">no claim without proof · no proof without reproduction · no verification without adversarial testing</text>
+</svg>

@@ -1,37 +1,58 @@
+<p align="center">
+  <img src="./assets/nightfall-wizard-banner.svg" alt="Nightfall Wizard banner">
+</p>
+
 # Nightfall Wizard
 
-**Independent developer/contributor account focused on adversarial verification, release reality checks, and Rust/privacy-protocol review work.**
+**Independent developer focused on adversarial verification, release reality checks, and evidence-bound review workflows for crypto/open-source systems.**
 
-Nightfall Wizard focuses on one question:
-
-> What can actually be verified, reproduced, and bounded by evidence?
-
-## Primary project
+## Main project
 
 ### Wizard Verification Protocol — WVP
 
-WVP is a mobile-built, zero-budget verification standard for checking whether crypto and open-source projects are technically, organizationally, and economically real.
+WVP turns project claims into verifiable reality:
 
-**Core rule:** no claim without proof, no proof without reproduction, no verification without adversarial testing.
+> No claim without proof.  
+> No proof without reproduction.  
+> No verification without adversarial testing.
 
-Repository: https://github.com/nightfall-wizard/wizard-verification-protocol
+Primary repository:  
+[`nightfall-wizard/wizard-verification-protocol`](https://github.com/nightfall-wizard/wizard-verification-protocol)
 
-## Related work
+## Focus
 
-Nightfall-related repositories under this account are unofficial developer workbenches, experiments, review surfaces, or upstream-contribution surfaces.
+- release integrity checks
+- GitHub evidence validation
+- Rust/privacy-protocol review surfaces
+- claim-boundary documentation
+- reproducible verification workflows
+- project reality classification
 
-## Claim boundary
+## Current positioning
+
+Nightfall Wizard is not a hype account and not a financial-promotion account.
+
+It exists to make technical claims easier to:
+
+- verify
+- reproduce
+- falsify
+- classify
+- document with clear evidence boundaries
+
+## Boundaries
 
 This profile does **not** claim:
 
-- audit status;
-- legal clearance;
-- investment quality;
-- custody safety;
-- binary safety;
-- full reproducible builds;
-- source-to-release proof;
-- protocol security;
-- official status for external projects.
+- audit status
+- legal clearance
+- investment quality
+- custody safety
+- binary safety
+- full reproducible builds
+- source-to-release proof
+- official status for external projects
 
-It exists to make project claims easier to test, falsify, reproduce, and classify.
+## Core rule
+
+**A project claim is only useful when its evidence can be checked by someone else.**
